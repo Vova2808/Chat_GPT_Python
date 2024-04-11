@@ -1,0 +1,4 @@
+googletrans==4.0.0rc1
+pyttsx3==2.90
+VortexGPT==0.1
+VortexGPT==0.1
